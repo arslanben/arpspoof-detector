@@ -25,6 +25,8 @@ You can run the relevant file to check the necessary requirements. It will autom
 
 ## Usage
 
+After starting your Windows system, run this file directly.  This ensures that the original version of your ARP table is saved.
+
 To run the Python file:
 
 ```sh
